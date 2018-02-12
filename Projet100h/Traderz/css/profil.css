@@ -1,0 +1,36 @@
+.profil{
+	display:flex;
+	justify-content: space-around;
+
+}
+
+.historique{
+	border: 2px solid #3F4045;
+	margin-top: 3%;
+	width: 40%;
+	border-radius: 15px;
+}
+
+h2{
+	text-align: center;
+	color :	darkblue;
+}
+.profil p{
+	text-align: center;
+}
+.graph{
+	border: 2px solid #3F4045;
+	margin-top: 3%;
+	width: 20%;
+	border-radius: 15px;
+}
+.options{
+	border: 2px solid #3F4045;
+	margin-top: 3%;
+	text-decoration: none;
+}
+.options a {
+	text-decoration: none;
+	color :	darkblue;
+
+}
